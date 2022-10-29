@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/shion-cm/odin-recipes"></a>
+  <a href="https://github.com/shioncm/odin-recipes"></a>
   <br>
   Odin Recipes - PROJECT
   <br>
