@@ -28,4 +28,4 @@ The general color scheme used for this website was based on the [Greek God Color
 
 ### Authors
 
-Shion M - shioncm2001@outlook.com
+Shion M - shioncm2001@gmail.com
